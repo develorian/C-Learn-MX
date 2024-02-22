@@ -16,7 +16,7 @@ Este _curso_, está basado principalmente en el libro **"THE C PROGRAMMING LENGU
 
 <!--![Portada del libro: THE C PROGRAMMING LENGUAGE, El lenguaje de programación C, traducción al español](https://www.cc4e.com/book/pages/front.jpg)-->
 
-<<a href="https://www.cc4e.com/book/toc.md" target=blank> <img height="400px" align="center" src="https://www.cc4e.com/book/pages/front.jpg"></a>
+<a href="https://www.cc4e.com/book/toc.md" target=blank> <img height="400px" align="center" src="https://www.cc4e.com/book/pages/front.jpg"></a>
 <br>
 
 No es una traducción exacta, sino un resumen con apuntes propios de mi comprensión del tema, espero ser claro y que te puedan ayudar. Tomando los conceptos básicos y que considero más importantes del libro del padre de **C**, así como de otros libros que se encuentran en la sección: [bibliografía](bibliografia).
