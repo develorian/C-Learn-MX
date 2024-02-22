@@ -41,11 +41,11 @@ Aquí iré agregando el contenido conforme vaya avanzando en lo que voy aprendie
 
 Para no hacer muy largo el [README](README.md), los temas del [Roadmap](#rocket-roadmap-el-camino) se encuentran desarrollados en la **[C-Learn-MX Wiki!](https://github.com/develorian/C-Learn-MX/wiki)** Puedes ingresar en este enlace y también aportar con tus conocimientos
 
-## :thread: Discussion
-
+## :thread: [Discussion](https://github.com/develorian/C-Learn-MX/discussions)
+Update
 Cada actualización será publicada en esta sección de **[C-Learn-MX Discussions](https://github.com/develorian/C-Learn-MX/discussions)**.
 
-:speech_balloon: Este espacio es para que la comunidad de Develorians pueda interactuar con lo siguiente:
+:speech_balloon: Este espacio es para que la comunidad de **Develorians** pueda interactuar con lo siguiente:
 
 - Dejar tu opinión.
 - Comentar sobre lo que has leído.
@@ -56,7 +56,7 @@ Cada actualización será publicada en esta sección de **[C-Learn-MX Discussion
 
 ## :warning: Alertas
 
-Durante la lectura, para hacerla más fácil y mucho más entendible, te encontrarás con Alertas como las siguientes:
+Durante la lectura, para hacerla más fácil y mucho más entendible, te encontrarás con **Alertas** como las siguientes:
 
 > [!NOTE]
 > Mucha de la información está resumida para hacer este curso lo más práctico posible, pero sin dejar de lado los detalles importantes del lenguaje C.
