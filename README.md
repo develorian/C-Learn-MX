@@ -16,5 +16,5 @@ Este _curso_, está basado principalmente en el libro **"THE C PROGRAMMING LENGU
 
 Pero también se toman conceptos, tablas y ejercicios de los libros que se encuentran en la sección: [bibliografía](bibliografia).
 
-> [!NOTA]
+> [!NOTE]
 > Mucha de la información está resumida para hacer este curso lo más práctico posible, pero con los suficientes detalles y notas para su mejor comprensión.
