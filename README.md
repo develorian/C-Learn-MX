@@ -8,15 +8,15 @@
 
 ## :space_invader: Introducción
 
-Aprende C en español es una compilación de conceptos, recursos, enlaces, librerías y ejercicios resueltos con comentarios y explicaciones detalladas para hacer más fácil su estudio y aprendizaje.
+**Aprende C en español** es una compilación de conceptos, recursos, enlaces, librerías y ejercicios resueltos con comentarios y explicaciones detalladas para hacer más fácil su estudio y aprendizaje.
 
-La principal finalidad es hacerte más fácil el curso de para aprender C, aquí te describo de manera práctica y con palabras fáciles de entender sin dejar el tecnisismo de la programación.
+La principal finalidad es hacerte más fácil el curso de para aprender **C**, aquí te describo de manera práctica y con palabras fáciles de entender sin dejar el tecnisismo de la programación.
 
 Este _curso_, está basado principalmente en el libro **"THE C PROGRAMMING LENGUAGE "** (El Lenguaje de Programación C) de _Brian W. Kernighan_ y _Dennis M. Ritchie_.
 
 <!--![Portada del libro: THE C PROGRAMMING LENGUAGE, El lenguaje de programación C, traducción al español](https://www.cc4e.com/book/pages/front.jpg)-->
 
-<center><a href="https://www.cc4e.com/book/toc.md" target=blank> <img height="400px" align="center" src="https://www.cc4e.com/book/pages/front.jpg"></a></center>
+<<a href="https://www.cc4e.com/book/toc.md" target=blank> <img height="400px" align="center" src="https://www.cc4e.com/book/pages/front.jpg"></a>
 <br>
 
 No es una traducción exacta, sino un resumen con apuntes propios de mi comprensión del tema, espero ser claro y que te puedan ayudar. Tomando los conceptos básicos y que considero más importantes del libro del padre de **C**, así como de otros libros que se encuentran en la sección: [bibliografía](bibliografia).
@@ -25,13 +25,13 @@ Me ha quedado muy claro que para aprender a programar hay que leer mucho, pero s
 
 ## :alien: Presentación
 
-Soy el Develorian :flying*saucer:, un apasionado de la programación y el desarrollo web, soy ingeniero pero a fin a un área ajena a la programación pero desde \*\*\_morrito*\*\* me ha fascinado la computación y las tecnologías.
+Soy el Develorian 🛸, un apasionado de la programación y el desarrollo web, soy ingeniero pero a fin a un área ajena a la programación pero desde **_morrito_** me ha fascinado la computación y las tecnologías.
 
 Ahora aprendo programación y desarrollo web de forma autodidacta, sinceramente, esto es mi pasión.
 
 Lo que me parece más **_¡cool!_** es es poder tener acceso a la información de todas las tecnologías de código abierto para solucionar los problemas del día a día, desarrollando software y aplicaciones web.
 
-## :rocket: Roadmap (El camino )
+## :rocket: Roadmap (El camino)
 
 Aquí iré agregando el contenido conforme vaya avanzando en lo que voy aprendiendo, procuraré que diario se esté actualizando el repo.
 
